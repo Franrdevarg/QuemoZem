@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Francisco Romano</h1>
+<h1 align="center">Hola 👋, Soy Fran</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 
 <p align="left">
+  <p align="center" width="300" dir="auto">
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png"><img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" style="max-width: 100%;"></a>
+   </p>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
