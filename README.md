@@ -1,5 +1,5 @@
   <p align="center" width="300" dir="auto">
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png"><img align="center" width="200" src="" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" width="200" src="" style="max-width: 100%;"></a>
    </p>
 
 <h1 align="center">Hola! 👋, Soy Fran 👨🏻‍💻</h1>
