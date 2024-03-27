@@ -1,5 +1,6 @@
 <h1 align="center">Hola! 👋, Soy Fran 👨🏻‍💻</h1>
-<h3 align="center">Programador Frontend || Backend</h3>
+<h3 align="center">Programador</h3>
+<h3 align="center"> Frontend || Backend</h3>
 
 
 <p align="left">
