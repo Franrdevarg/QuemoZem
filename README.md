@@ -56,6 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/8876613d0f22bd022f9d4ffa4d97adb896a00c8e855f361abdd9e496de20c7aa/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d7a3558304d5851412d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6a38776f3966316d6f75366735343639363731682e676966" data-canonical-src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ###
+
