@@ -2,9 +2,7 @@
   
 <img align="center" src="https://github.com/QuemoZem/QuemoZem/blob/6199c725e46257d37dabd17743068fd51523738e/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png?raw=true"  />
 </div>
-<h1 align="center">Hola 👋! Mi nombre es Francisco</h1>
-<h3 align="center">Programador Fontend || Backend y vivo en Argentina</h3>
-
+https://github.com/QuemoZem/QuemoZem/blob/main/README.md
 ###
 
 <div align="center">
